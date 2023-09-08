@@ -1,5 +1,4 @@
 # moong-dal-recipe
 
-
-## making of moong dal
+making of moong dal
 
