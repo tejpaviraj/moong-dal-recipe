@@ -1,0 +1,4 @@
+step1: add water, dal, salt to a container
+step2: boil
+step3: mix masala
+step4: serve with rice
